@@ -27,17 +27,19 @@ Each type comes in different resolutions and multiple precisions for convenience
 
 Here, we fine-tune a custom Tuxemon dataset from HuggingFace Hub.
 
-![image](https://github.com/ariG23498/ft-pali-gemma/assets/44690292/67d47985-ec4a-4e3f-ac45-d2474cf988d4)
-![image](https://github.com/ariG23498/ft-pali-gemma/assets/44690292/81c7ed90-9377-49e3-ad2c-4d680d350b67)
+| Image 1 | Image 2 |
+|---|---|
+| ![image](https://github.com/ariG23498/ft-pali-gemma/assets/44690292/67d47985-ec4a-4e3f-ac45-d2474cf988d4) | ![image](https://github.com/ariG23498/ft-pali-gemma/assets/44690292/81c7ed90-9377-49e3-ad2c-4d680d350b67) |
+
 
 ## Citation
 
 ```
 @misc{github_repository,
-  author = {Aritra Roy Gosthipaty, Ritwik Raha},  # Replace with the author's name
-  title = {ft-pali-gemma},  # Replace with the repository title
+  author = {Aritra Roy Gosthipaty, Ritwik Raha}, 
+  title = {ft-pali-gemma}, 
   publisher = {{GitHub}(https://github.com)},
   howpublished = {\url{https://github.com/ariG23498/ft-pali-gemma/edit/main/README.md}},
-  year = {2024}  # published in 2024
+  year = {2024}  
 }
 ```
