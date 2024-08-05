@@ -1,5 +1,9 @@
 # Fine Tuning PaliGemma
 
+## What is SigLIP
+
+We (/w Ritwik Raha) have covered SigLIP in depth in our blog [Choosing Between SigLIP and CLIP for Language Image Pretraining](https://blog.ritwikraha.dev/choosing-between-siglip-and-clip-for-language-image-pretraining).
+
 ## What is PaliGemma?
 
 [PaliGemma](https://ai.google.dev/gemma/docs/paligemma) is a new family of
