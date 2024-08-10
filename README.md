@@ -59,7 +59,10 @@ and run the model.
 |---|---|
 | ![image](./assets/object_detection/before.png) | ![image](./assets/object_detection/after.png) |
 
-
+## Further Reading
+If you want to read more about PaliGemma and SigLip we have written two blogposts on the topic:
+- [Understanding PaliGemma](https://blog.ritwikraha.dev/understanding-paligemma-in-50-minutes-or-less)
+- [SigLip vs CLIP](https://blog.ritwikraha.dev/choosing-between-siglip-and-clip-for-language-image-pretraining)
 ## Citation
 If you like our work and would use it please cite us! ^_^
 ```
